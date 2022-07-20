@@ -6,6 +6,8 @@ description: >-
 
 # 💊 The Decentralized FDA DAO
 
+[60 million](https://www.theworldcounts.com/populations/world/deaths) people die annually, and [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) suffer from chronic diseases.  To address this, the new and improved outcome-focused mandate of the Decentralized Food and Drug Administration (deFDA) is to **maximize the average healthy human lifespan as measured by quality-adjusted life-years (QALYs)**.
+
 ## A New and Improved FDA Mandate
 
 The US Food and Drug Administration was created for the very important purpose of protecting and promoting human health and safety.  Unfortunately, the 1962 Congressional efficacy mandate that drives all FDA policies is terribly worded.  It's so flawed that it actually prevents the FDA from effectively carrying out its true purpose.&#x20;
@@ -18,18 +20,21 @@ In practice, we've seen a less absolutist interpretation of the mandate. Instead
 
 
 
-So the 1962 efficacy mandate simply doesn't weigh the costs of the regulatory burden against the reduction in treatments that are an inevitable tradeoff.  If something costs twice as much, you can only afford to buy half as much.  This is precisely what we've seen in the 70% reduction in new therapies immediately following the modification.
+So the 1962 efficacy mandate doesn't weigh the costs of the regulatory burden against the reduction in treatments that are an inevitable tradeoff.  If something costs twice as much, you can only afford to buy half as much.  This is precisely what we've seen in the 70% reduction in new therapies immediately following the modification.
 
 ![70% reduction in new therapies immediately following the 1962 mandate](.gitbook/assets/new-treatments-per-year-2.png)
 
-[60 million](https://www.theworldcounts.com/populations/world/deaths) people die annually, and [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) suffer from chronic diseases.  To address this, the new and improved outcome-focused mandate of the Decentralized Food and Drug Administration (deFDA) is to **maximize the average healthy human lifespan as measured by quality-adjusted life-years (QALYs)**.
+Over the previous 50 years, rapid advancements in medical science had produced a 4-year increase in human lifespan every decade. This amazingly linear growth rate had followed millennia with a flat human lifespan of around 28 years. Following this new 1962 70% reduction in the pace of medical progress, the growth in human lifespan was immediately cut in half to an increase of 2 years per decade.
+
+![Reduction in Growth in Average Age of Death](.gitbook/assets/lifespan-increase.png)
 
 ## Hypotheses
 
-1. Given a clear and optimized mandate, the crowd wisdom of a large body of medical experts can produce policies that are more effective at extending healthy human lifespan than the current regulatory framework.
-2. Implementing such a regulatory body in a microstate or economic zone like Prospera, a semi-autonomous jurisdiction in Honduras is possible.
-3. Evidence of the success of this model will make it possible to promote adoption by other micronations.
-4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
+1. **Mandate** - Given a clear and optimized mandate to maximize Quality Adjusted Life Years, the crowd wisdom of a large body of medical experts can produce policies that are more effective at extending healthy human lifespan than the current framework.
+2. **Reduced Cost** - Cost-benefit analysis-driven policies from a body of experts combined with large-scale real-world evidence can reduce the average cost of developing a new drug below $74 million.
+3. **Increased Growth in Average Human Lifespan** - An increase in available life-saving interventions can increase the rate of growth in lifespan.
+4. **Jurisdiction -** Implementing such a regulatory body in a microstate or economic zone like Prospera, a semi-autonomous jurisdiction in Honduras, is possible.
+5. **Gradual Adoption** - Evidence of the success of this model will make it possible to promote adoption by other micronations. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
 
 {% content-ref url="6-tokenomics.md" %}
 [6-tokenomics.md](6-tokenomics.md)

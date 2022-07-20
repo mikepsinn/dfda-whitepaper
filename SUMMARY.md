@@ -6,7 +6,7 @@
   * [🙈 Negative Results are Never Published](1-introduction-and-challenges/negative-results-are-never-published.md)
   * [🧮 Careerist Default Bias to Reject Effective Treatments](1-introduction-and-challenges/bias-against-approving-effective-treatments.md)
   * [🎭 Conflicts of Interest Industry-Controlled Research](1-introduction-and-challenges/conflicts-of-interest-industry-controlled-research.md)
-  * [🎩 Excessive Patent Monopolies](1-introduction-and-challenges/excessive-patent-monopolies.md)
+  * [🎩 Oligopolies Protect Existing Inferior Treatments](1-introduction-and-challenges/excessive-patent-monopolies.md)
   * [⏱ Deaths Due to US Regulatory "Drug Lag"](1-introduction-and-challenges/deaths-due-to-us-regulatory-drug-lag.md)
   * [🔮 Pre-Determining Clinical Endpoints Requires Psychic Powers](1-introduction-and-challenges/pre-determining-clinical-endpoints-requires-psychic-powers.md)
   * [🥸 Trials Often Aren't Representative of Real Patients](1-introduction-and-challenges/trials-often-arent-representative-of-real-patients.md)
