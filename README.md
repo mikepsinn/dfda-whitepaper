@@ -37,16 +37,16 @@ So the 1962 efficacy mandate simply doesn't weigh the costs of the regulatory bu
 
 ## Problems that Could be Solved with a New Regulatory Framework
 
-{% content-ref url="1-introduction-and-challenges/no-data-on-unpatentable-molecules.md" %}
-[no-data-on-unpatentable-molecules.md](1-introduction-and-challenges/no-data-on-unpatentable-molecules.md)
+{% content-ref url="clinical-research-is-too-expensive/no-data-on-unpatentable-molecules.md" %}
+[no-data-on-unpatentable-molecules.md](clinical-research-is-too-expensive/no-data-on-unpatentable-molecules.md)
 {% endcontent-ref %}
 
-{% content-ref url="1-introduction-and-challenges/no-incentive-to-discover-benefits-of-off-patent-treatments.md" %}
-[no-incentive-to-discover-benefits-of-off-patent-treatments.md](1-introduction-and-challenges/no-incentive-to-discover-benefits-of-off-patent-treatments.md)
+{% content-ref url="clinical-research-is-too-expensive/no-incentive-to-discover-benefits-of-off-patent-treatments.md" %}
+[no-incentive-to-discover-benefits-of-off-patent-treatments.md](clinical-research-is-too-expensive/no-incentive-to-discover-benefits-of-off-patent-treatments.md)
 {% endcontent-ref %}
 
-{% content-ref url="1-introduction-and-challenges/no-long-term-outcome-data.md" %}
-[no-long-term-outcome-data.md](1-introduction-and-challenges/no-long-term-outcome-data.md)
+{% content-ref url="clinical-research-is-too-expensive/no-long-term-outcome-data.md" %}
+[no-long-term-outcome-data.md](clinical-research-is-too-expensive/no-long-term-outcome-data.md)
 {% endcontent-ref %}
 
 {% content-ref url="1-introduction-and-challenges/negative-results-are-never-published.md" %}
@@ -57,12 +57,12 @@ So the 1962 efficacy mandate simply doesn't weigh the costs of the regulatory bu
 [trials-often-arent-representative-of-real-patients.md](1-introduction-and-challenges/trials-often-arent-representative-of-real-patients.md)
 {% endcontent-ref %}
 
-{% content-ref url="1-introduction-and-challenges/insufficient-roi-to-discover-treatments-for-rare-diseases.md" %}
-[insufficient-roi-to-discover-treatments-for-rare-diseases.md](1-introduction-and-challenges/insufficient-roi-to-discover-treatments-for-rare-diseases.md)
+{% content-ref url="clinical-research-is-too-expensive/insufficient-roi-to-discover-treatments-for-rare-diseases.md" %}
+[insufficient-roi-to-discover-treatments-for-rare-diseases.md](clinical-research-is-too-expensive/insufficient-roi-to-discover-treatments-for-rare-diseases.md)
 {% endcontent-ref %}
 
-{% content-ref url="1-introduction-and-challenges/we-only-know-the-effects-of-0.000000002-of-potential-therapies.md" %}
-[we-only-know-the-effects-of-0.000000002-of-potential-therapies.md](1-introduction-and-challenges/we-only-know-the-effects-of-0.000000002-of-potential-therapies.md)
+{% content-ref url="clinical-research-is-too-expensive/we-only-know-the-effects-of-0.000000002-of-potential-therapies.md" %}
+[we-only-know-the-effects-of-0.000000002-of-potential-therapies.md](clinical-research-is-too-expensive/we-only-know-the-effects-of-0.000000002-of-potential-therapies.md)
 {% endcontent-ref %}
 
 {% content-ref url="1-introduction-and-challenges/deaths-due-to-us-regulatory-drug-lag.md" %}
@@ -83,12 +83,12 @@ So the 1962 efficacy mandate simply doesn't weigh the costs of the regulatory bu
 [cost-savings-from-decentralized-clinical-trials.md](2-solution/cost-savings-from-decentralized-clinical-trials.md)
 {% endcontent-ref %}
 
-{% content-ref url="2-solution/more-cures-and-less-lifelong-attempts-at-masking-symptoms.md" %}
-[more-cures-and-less-lifelong-attempts-at-masking-symptoms.md](2-solution/more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
+{% content-ref url="clinical-research-is-too-expensive/more-cures-and-less-lifelong-attempts-at-masking-symptoms.md" %}
+[more-cures-and-less-lifelong-attempts-at-masking-symptoms.md](clinical-research-is-too-expensive/more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
 {% endcontent-ref %}
 
-{% content-ref url="2-solution/greater-competitive-innovation-and-fewer-monopolies.md" %}
-[greater-competitive-innovation-and-fewer-monopolies.md](2-solution/greater-competitive-innovation-and-fewer-monopolies.md)
+{% content-ref url="clinical-research-is-too-expensive/greater-competitive-innovation-and-fewer-monopolies.md" %}
+[greater-competitive-innovation-and-fewer-monopolies.md](clinical-research-is-too-expensive/greater-competitive-innovation-and-fewer-monopolies.md)
 {% endcontent-ref %}
 
 {% content-ref url="2-solution/lower-costs-of-validated-observational-research-for-efficacy.md" %}
@@ -97,8 +97,8 @@ So the 1962 efficacy mandate simply doesn't weigh the costs of the regulatory bu
 
 ## Supporting Evidence
 
-{% content-ref url="supporting-evidence/historical-evidence-supporting-real-wold-efficacy-trials.md" %}
-[historical-evidence-supporting-real-wold-efficacy-trials.md](supporting-evidence/historical-evidence-supporting-real-wold-efficacy-trials.md)
+{% content-ref url="historical-evidence-supporting-real-wold-efficacy-trials.md" %}
+[historical-evidence-supporting-real-wold-efficacy-trials.md](historical-evidence-supporting-real-wold-efficacy-trials.md)
 {% endcontent-ref %}
 
 {% content-ref url="supporting-evidence/impact-of-innovative-medicines-on-life-expectancy.md" %}

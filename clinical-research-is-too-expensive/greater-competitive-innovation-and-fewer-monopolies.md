@@ -1,8 +1,8 @@
 ---
-description: High Cost of Development Favors Monopoly and Punishes Innovation
+description: High Cost of Regulation Favors Monopoly and Punishes Innovation
 ---
 
-# 🧐 Greater Competitive Innovation and Fewer Monopolies
+# 🧐 It's Often More Profitable to Shelve Patents for More Effective Treatments
 
 There's another problem with the increasing costs of treatment development. In the past, a genius scientist could come up with a treatment, raise a few million dollars, and do safety testing. Now that it costs a billion dollars to get a drug to market, the scientist has to persuade one of a few giant drug companies that can afford it to buy his patent.
 

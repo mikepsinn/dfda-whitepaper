@@ -4,16 +4,16 @@ description: The current system of clinical research is too slow, expensive, and
 
 # ☠ Problems We Seek To Address
 
-{% content-ref url="no-data-on-unpatentable-molecules.md" %}
-[no-data-on-unpatentable-molecules.md](no-data-on-unpatentable-molecules.md)
+{% content-ref url="../clinical-research-is-too-expensive/no-data-on-unpatentable-molecules.md" %}
+[no-data-on-unpatentable-molecules.md](../clinical-research-is-too-expensive/no-data-on-unpatentable-molecules.md)
 {% endcontent-ref %}
 
-{% content-ref url="no-incentive-to-discover-benefits-of-off-patent-treatments.md" %}
-[no-incentive-to-discover-benefits-of-off-patent-treatments.md](no-incentive-to-discover-benefits-of-off-patent-treatments.md)
+{% content-ref url="../clinical-research-is-too-expensive/no-incentive-to-discover-benefits-of-off-patent-treatments.md" %}
+[no-incentive-to-discover-benefits-of-off-patent-treatments.md](../clinical-research-is-too-expensive/no-incentive-to-discover-benefits-of-off-patent-treatments.md)
 {% endcontent-ref %}
 
-{% content-ref url="no-long-term-outcome-data.md" %}
-[no-long-term-outcome-data.md](no-long-term-outcome-data.md)
+{% content-ref url="../clinical-research-is-too-expensive/no-long-term-outcome-data.md" %}
+[no-long-term-outcome-data.md](../clinical-research-is-too-expensive/no-long-term-outcome-data.md)
 {% endcontent-ref %}
 
 {% content-ref url="conflicts-of-interest-industry-controlled-research.md" %}
