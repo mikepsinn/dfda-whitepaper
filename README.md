@@ -101,6 +101,6 @@ So the 1962 efficacy mandate simply doesn't weigh the costs of the regulatory bu
 [historical-evidence-supporting-real-wold-efficacy-trials.md](historical-evidence-supporting-real-wold-efficacy-trials.md)
 {% endcontent-ref %}
 
-{% content-ref url="supporting-evidence/impact-of-innovative-medicines-on-life-expectancy.md" %}
-[impact-of-innovative-medicines-on-life-expectancy.md](supporting-evidence/impact-of-innovative-medicines-on-life-expectancy.md)
+{% content-ref url="impact-of-innovative-medicines-on-life-expectancy.md" %}
+[impact-of-innovative-medicines-on-life-expectancy.md](impact-of-innovative-medicines-on-life-expectancy.md)
 {% endcontent-ref %}

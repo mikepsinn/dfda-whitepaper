@@ -91,6 +91,6 @@ Since the abandonment of the former efficacy trial model, costs have exploded. S
 [slowed-growth-in-life-expectancy.md](1-introduction-and-challenges/slowed-growth-in-life-expectancy.md)
 {% endcontent-ref %}
 
-{% content-ref url="supporting-evidence/impact-of-innovative-medicines-on-life-expectancy.md" %}
-[impact-of-innovative-medicines-on-life-expectancy.md](supporting-evidence/impact-of-innovative-medicines-on-life-expectancy.md)
+{% content-ref url="impact-of-innovative-medicines-on-life-expectancy.md" %}
+[impact-of-innovative-medicines-on-life-expectancy.md](impact-of-innovative-medicines-on-life-expectancy.md)
 {% endcontent-ref %}
