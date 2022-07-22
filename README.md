@@ -1,6 +1,6 @@
 ---
 description: >-
-  Using the combined wisdom of thousands of experts to minimize suffering and
+  Optimizing public policy using the combined wisdom of thousands of experts to
   maximize healthy human lifespan.
 ---
 
