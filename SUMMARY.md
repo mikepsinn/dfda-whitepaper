@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💊 The Decentralized FDA DAO](README.md)
+* [💊 The Decentralized FDA](README.md)
 * [📘 Historical Evidence Supporting Real-World Efficacy Trials](historical-evidence-supporting-real-wold-efficacy-trials.md)
 * [☠ Problems We Seek To Address](1-introduction-and-challenges/README.md)
   * [🙈 Negative Results are Never Published](1-introduction-and-challenges/negative-results-are-never-published.md)
